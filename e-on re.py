@@ -8,7 +8,7 @@ while on != 0:
     c += 1
 
 
-def angry(a,t):
+def angry(a):
     d = 0
     t = 0
     if on == 0 :
@@ -18,7 +18,7 @@ def angry(a,t):
     return t
 
 print(b)
-print("위의 수의 합은", angry(b,0),"입니다")
+print("위의 수의 합은", angry(b),"입니다")
 
 
     
