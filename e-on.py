@@ -5,5 +5,18 @@ elif a % 2 == 1:
     print("홀수") # 나눈수의 나머지가 1일때 홀수 출력
 elif a % 2 == 0:
     print("짝수") # 나눈수의 나머지가 0일때 짝수 출력
+    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다    feeeeee
+    test 입니다
 
 
